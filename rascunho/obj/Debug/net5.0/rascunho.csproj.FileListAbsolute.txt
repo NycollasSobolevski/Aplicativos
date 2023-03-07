@@ -1,0 +1,16 @@
+C:\Users\aluno\Desktop\rascunho\Aplicativos\rascunho\obj\Debug\net5.0\rascunho.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\rascunho\Aplicativos\rascunho\obj\Debug\net5.0\rascunho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\rascunho\Aplicativos\rascunho\obj\Debug\net5.0\rascunho.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\rascunho\Aplicativos\rascunho\obj\Debug\net5.0\rascunho.AssemblyInfo.cs
+C:\Users\aluno\Desktop\rascunho\Aplicativos\rascunho\obj\Debug\net5.0\rascunho.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\rascunho\Aplicativos\rascunho\bin\Debug\net5.0\rascunho.exe
+C:\Users\aluno\Desktop\rascunho\Aplicativos\rascunho\bin\Debug\net5.0\rascunho.deps.json
+C:\Users\aluno\Desktop\rascunho\Aplicativos\rascunho\bin\Debug\net5.0\rascunho.runtimeconfig.json
+C:\Users\aluno\Desktop\rascunho\Aplicativos\rascunho\bin\Debug\net5.0\rascunho.runtimeconfig.dev.json
+C:\Users\aluno\Desktop\rascunho\Aplicativos\rascunho\bin\Debug\net5.0\rascunho.dll
+C:\Users\aluno\Desktop\rascunho\Aplicativos\rascunho\bin\Debug\net5.0\ref\rascunho.dll
+C:\Users\aluno\Desktop\rascunho\Aplicativos\rascunho\bin\Debug\net5.0\rascunho.pdb
+C:\Users\aluno\Desktop\rascunho\Aplicativos\rascunho\obj\Debug\net5.0\rascunho.dll
+C:\Users\aluno\Desktop\rascunho\Aplicativos\rascunho\obj\Debug\net5.0\ref\rascunho.dll
+C:\Users\aluno\Desktop\rascunho\Aplicativos\rascunho\obj\Debug\net5.0\rascunho.pdb
+C:\Users\aluno\Desktop\rascunho\Aplicativos\rascunho\obj\Debug\net5.0\rascunho.genruntimeconfig.cache
